@@ -20,10 +20,15 @@ Using the slicing concept rotate the list
 #RegisterNumber:21005032
 
 def circulate():
-    l =[10,20,30,40,50,60]
-    n = int(input())
-    a =l[n:]+l[:n]
-    print("After circulating the values are:",a)
-## Output:
 
+    l =[10,20,30,40,50,60]
+
+    n = int(input())
+
+    a =l[n:]+l[:n]
+
+    print("After circulating the values are:",a)
+
+## Output:
+![output]()
 ## Result:
