@@ -30,5 +30,5 @@ def circulate():
     print("After circulating the values are:",a)
 
 ## Output:
-![output]()
+![output](https://github.com/RuchithaReddy28/Circulate-the-values-of-N-variables/blob/main/Screenshot%20(19).png)
 ## Result:
