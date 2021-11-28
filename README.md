@@ -15,8 +15,11 @@ Using the slicing concept rotate the list
 ### Step 5: 
 ### Step 6: 
 ## Program:
+
 #Program to circulate N values.
+
 #Developed by:A.Ruchitha Reddy
+
 #RegisterNumber:21005032
 
 def circulate():
